@@ -5,6 +5,42 @@
 <!-- <h3> Website Link 🔗: https://lnkd.in/g8fAq6gd</h3> -->
 User can Upload files to Database Using PHP and Mysql
 
+# Using File Upload System
+
+This is a sample repo for using file upload system in PHP created by [Mukul Saini](https://github.com/thisismemukul). 
+
+- [Installation Guide](#installation-guide) - How to get started with file upload system
+
+# <a name='installation-guide'>Installation Guide</a>
+
+This project requires the following tools:
+
+- [PHP](https://www.php.net/manual/en/install.windows.php) - The PHP should be installed on your system.
+- [XAMPP](https://www.apachefriends.org/download.html) - Download XAMPP Server on your system.
+
+To get started, install PHP and XAMPP on your local computer if you don't have them already.
+
+## Getting Started
+
+**Step 1. Clone the code into a fresh folder**
+
+```
+$ git clone https://github.com/thisismemukul/file_upload_php.git
+$ cd file_upload_php
+```
+
+**Step 2. Open PHPMYADMIN .**
+
+Next, we need to create database on phpmyadmin named `fileupload`.
+
+**Step 3. Go to your browser.**
+
+
+```
+http://localhost/<your_cloned_folder_name>/fileupload/
+```
+
+
 
 # License
 
