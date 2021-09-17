@@ -1,6 +1,6 @@
-# Covid-19 Resources Website
+# PHP file upload system 
 <p align="center">
-<img src="https://github.com/thisismemukul/covidresources/blob/main/img/covidresource.gif" alt="Databay showcase gif" title="CovidResource showcase gif" width="500"/>
+<img src="https://github.com/thisismemukul/file_upload_php/blob/main/assets/upload.gif" alt="file upload showcase gif" title="file upload showcase gif" width="500"/>
 </p>
 <!-- <h3> Website Link 🔗: https://lnkd.in/g8fAq6gd</h3> -->
 User can Upload files to Database Using PHP and Mysql
@@ -8,9 +8,9 @@ User can Upload files to Database Using PHP and Mysql
 
 # License
 
-On the Covid Resource website any can contribue [licensed as MIT][mlh-license].
+This is open source software [licensed as MIT][mlh-license].
 
-[mlh-license]: https://github.com/thisismemukul/covidresources/blob/main/LICENSE.md
+[mlh-license]: https://github.com/thisismemukul/file_upload_php/blob/main/LICENSE.md
 
 ============================================================================
 

@@ -2,7 +2,7 @@
 $server = "localhost";
 $username = "root";
 $password = "";
-$dbname = "kuchbhee";
+$dbname = "fileupload";
 
 $con = mysqli_connect($server, $username, $password, $dbname);
 
